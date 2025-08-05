@@ -33,11 +33,6 @@ open index.html
 
 note: [*depends on the name of file*]
 
-4. Folder Structure
 
-dark-mode-toggle/
-│
-├── index.html           # Main HTML file
-├── buttonstyle.css      # Stylesheet
-└── buttonscript.js      # JavaScript logic
+
 
